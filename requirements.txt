@@ -192,7 +192,6 @@ param==2.1.0
 parso==0.8.3
 pdf2image==1.17.0
 pdf4llm==0.0.7
--e git+https://github.com/focused-labs/pdf_rag.git@6b2f57811719e57f798b031b55044eca5b02e885#egg=pdf_rag
 pdfminer.six==20221105
 pdfplumber==0.10.3
 peft==0.10.0
