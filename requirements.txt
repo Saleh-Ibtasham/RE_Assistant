@@ -136,7 +136,6 @@ milvus_cli==0.4.2
 minio==7.2.5
 mistune==3.0.2
 mkl-fft @ file:///croot/mkl_fft_1695058164594/work
-mkl-random @ file:///croot/mkl_random_1695059800811/work
 mkl-service==2.4.0
 mmh3==4.1.0
 monotonic==1.6
